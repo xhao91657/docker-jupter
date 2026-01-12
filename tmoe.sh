@@ -1,0 +1,1 @@
+awk -f <(curl -L l.tmoe.me/2.awk)
